@@ -12,4 +12,5 @@ Cara menjalankan :
 - php artisan migrate --seed
 - php artisan serve
 
+Notes : untuk user dan password ada di file UserSeeder
 [[HappyCODINGyakksss!!]]
